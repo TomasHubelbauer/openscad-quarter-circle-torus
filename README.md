@@ -7,7 +7,7 @@ The recommended installation method is to add this repository as a submodule in
 your repository and pull in the script with this line:
 
 ```openscad
-include <openscad-quarter-circle-torus/quarter-circle-torus.scad>
+use <openscad-quarter-circle-torus/quarter-circle-torus.scad>
 ```
 
 The documentation for the available modules follows.

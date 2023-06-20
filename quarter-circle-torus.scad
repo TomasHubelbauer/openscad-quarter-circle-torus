@@ -68,5 +68,3 @@ module inverted_quarter_torus(angle = 360, radius = 10, side = 10, quadrant = 0)
   translate([radius, 0, 0])
   inverted_quarter_circle(side, quadrant);
 }
-
-inverted_quarter_torus(quadrant = 3, $fn = 100);
